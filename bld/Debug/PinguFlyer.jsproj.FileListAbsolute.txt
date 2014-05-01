@@ -1,0 +1,16 @@
+C:\Users\santosh\Desktop\pingu flyer w8\bin\Debug\AppxManifest.xml
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\priconfig.xml
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\priconfig.xml.intermediate
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\layout.resfiles
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\layout.resfiles.intermediate
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\resources.resfiles
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\resources.resfiles.intermediate
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\pri.resfiles
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\pri.resfiles.intermediate
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\qualifiers.txt
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\qualifiers.txt.intermediate
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\santosh\Desktop\pingu flyer w8\bld\Debug\ProjectArchitectures.txt
+C:\Users\santosh\Desktop\pingu flyer w8\bin\Debug\PinguFlyer.build.appxrecipe
+C:\Users\santosh\Desktop\pingu flyer w8\bin\Debug\ReverseMap\resources.pri
+C:\Users\santosh\Desktop\pingu flyer w8\bin\Debug\MicrosoftAdvertising.winmd
